@@ -4,6 +4,8 @@ Project that creates a honeypot to allow live threat actor(s) access to a virtua
 ---
 # Honeypot Architecture 
 <￼>
+
+
 # Technology Utilized
 - Tenable (enterprise vulnerability management platform)
 - Azure Virtual Machines (Nessus scan engine + scan targets)
