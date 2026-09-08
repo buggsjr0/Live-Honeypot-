@@ -9,7 +9,7 @@ Project that creates a honeypot to allow live threat actor(s) access to a virtua
 # Technology Utilized
 - Tenable (enterprise vulnerability management platform) 
 - Azure Virtual Machines (Nessus scan engine + scan targets)
-- PowerShell & BASH (remediation scripts)
+- PowerShell & BASH (remediation scripts) 
  
 ---
 
